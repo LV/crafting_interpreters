@@ -1,4 +1,4 @@
-#+title: README
+#+title: Crafting Interpreters
 #+author: Luis Victoria
 
 The following repo is my work along the book /Crafting Interpreters/
